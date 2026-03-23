@@ -3,10 +3,12 @@
 // Get them from: Firebase Console → Project Settings → Your apps
 // ─────────────────────────────────────────────
 const firebaseConfig = {
-  apiKey:            "YOUR_API_KEY",
-  authDomain:        "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId:         "YOUR_PROJECT_ID",
-  storageBucket:     "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId:             "YOUR_APP_ID"
+ apiKey: "AIzaSyDB6E9NcfA8r-yvPW5Y34w-CaaDvRY7zPg",
+  authDomain: "aryatat-d22e9.firebaseapp.com",
+  projectId: "aryatat-d22e9",
+  storageBucket: "aryatat-d22e9.firebasestorage.app",
+  messagingSenderId: "846027450088",
+  appId: "1:846027450088:web:311ab05d42df07c49d8b5d"
 };
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
