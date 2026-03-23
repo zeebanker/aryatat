@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" rx="42" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#99f6e4"/>
+      <stop offset="100%" stop-color="#e9d5ff"/>
+    </linearGradient>
+  </defs>
+  <!-- heart -->
+  <path d="M96 158 C96 158 34 118 34 76 C34 56 50 44 68 50 C78 54 88 64 96 74 C104 64 114 54 124 50 C142 44 158 56 158 76 C158 118 96 158 96 158Z" fill="#fdf2f8" stroke="#f472b6" stroke-width="7"/>
+  <!-- center ring -->
+  <circle cx="96" cy="100" r="18" fill="none" stroke="#14b8a6" stroke-width="6"/>
+  <!-- petals / dots -->
+  <circle cx="96" cy="74" r="7" fill="#a855f7"/>
+  <circle cx="72" cy="92" r="7" fill="#a855f7"/>
+  <circle cx="120" cy="92" r="7" fill="#a855f7"/>
+  <circle cx="80" cy="116" r="7" fill="#f472b6"/>
+  <circle cx="112" cy="116" r="7" fill="#f472b6"/>
+  <!-- small accent dots -->
+  <circle cx="96" cy="100" r="5" fill="#14b8a6"/>
+</svg>

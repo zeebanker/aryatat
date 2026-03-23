@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#99f6e4"/>
+      <stop offset="100%" stop-color="#e9d5ff"/>
+    </linearGradient>
+  </defs>
+  <!-- heart -->
+  <path d="M256 420 C256 420 90 316 90 202 C90 148 132 116 180 132 C206 141 232 168 256 196 C280 168 306 141 332 132 C380 116 422 148 422 202 C422 316 256 420 256 420Z" fill="#fdf2f8" stroke="#f472b6" stroke-width="18"/>
+  <!-- center ring -->
+  <circle cx="256" cy="268" r="48" fill="none" stroke="#14b8a6" stroke-width="16"/>
+  <!-- petals / dots -->
+  <circle cx="256" cy="196" r="19" fill="#a855f7"/>
+  <circle cx="192" cy="246" r="19" fill="#a855f7"/>
+  <circle cx="320" cy="246" r="19" fill="#a855f7"/>
+  <circle cx="214" cy="310" r="19" fill="#f472b6"/>
+  <circle cx="298" cy="310" r="19" fill="#f472b6"/>
+  <!-- center dot -->
+  <circle cx="256" cy="268" r="13" fill="#14b8a6"/>
+</svg>
